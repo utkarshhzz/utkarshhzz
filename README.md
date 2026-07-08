@@ -1,42 +1,215 @@
-# 💫 About Me:
-Hey, I'm Utkarsh 👋<br>CS + AI/DS undergrad at MIT Bengaluru & IIT Guwahati. I build at the intersection of computer vision, ML, and full-stack development.<br>Passionate about turning data into real-world solutions — from geospatial research to intelligent systems. Always exploring, always building.
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E14&fontColor=2EE6D6&text=Utkarsh&fontSize=42&desc=SWE%20%C2%B7%20Backend%20%C2%B7%20AI%2FData%20Science&descColor=7FFFD4&descAlignY=65&animation=fadeIn&height=200" />
+</div>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/utkarshz__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-kumar-801703321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unofficialutkarsh.06@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6D6&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS%2C+AI%2FDS+Undergrad;%24+enrolled+%E2%86%92+MIT+Bengaluru+%7C+IIT+Guwahati;%24+stack+%E2%86%92+FastAPI%2C+LangChain%2C+GNNs%2C+Azure;%24+open_to+%E2%86%92+SWE%2C+Backend%2C+Data+Science+roles)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utkarshhzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=utkarshhzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshhzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![MIT Bengaluru](https://img.shields.io/badge/MIT_Bengaluru-B.Tech_CS-2EE6D6?style=flat-square&labelColor=0A0E14)
+![IIT Guwahati](https://img.shields.io/badge/IIT_Guwahati-B.Sc_AI_%26_DS-2EE6D6?style=flat-square&labelColor=0A0E14)
+![Location](https://img.shields.io/badge/India-Open_to_Remote_%2F_Onsite-2EE6D6?style=flat-square&labelColor=0A0E14)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utkarshhzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E14?style=for-the-badge&logo=vercel&logoColor=2EE6D6)](https://utkarshkumar-theta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=2EE6D6)](https://github.com/utkarshhzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=2EE6D6)](https://www.linkedin.com/in/utkarsh-kumar-801703321/)
+[![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=2EE6D6)](mailto:unofficialutkarsh.06@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0E14?style=for-the-badge&logo=instagram&logoColor=2EE6D6)](https://www.instagram.com/utkarshz__/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=utkarshhzz&color=2EE6D6&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=utkarshhzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utkarshhzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
 
-<!--
-**utkarshhzz/utkarshhzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year CS undergrad, dual-enrolled at **MIT Bengaluru** (B.Tech CS) and **IIT Guwahati** (B.Sc AI & Data Science). I build backend systems and applied AI products end-to-end — RAG chatbots, multi-agent orchestration, large-scale semantic search, and GNN-based fraud detection. Active hackathon competitor with multiple national and state-level wins.
 
-Here are some ideas to get you started:
+```bash
+$ cat .profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ROLE     =  Backend Engineer / AI-ML Engineer
+EXP      =  Internships @ Provaantech, AVSS Tech  +  IEEE GRSS Research
+DOMAIN   =  Backend Systems | Applied ML | RAG / Agentic AI | Data Science
+STACK    =  Python | FastAPI | Flask | LangChain | Docker | Azure | PyTorch | GNNs
+OPEN_TO  =  SWE / Backend Engineering / Data Science Internships & Roles
+```
+
+## `> tech-stack`
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,nodejs,fastapi,docker,git,github,linux,vscode,postman&theme=dark)
+<br/>
+![](https://skillicons.dev/icons?i=aws,azure,mongodb,mysql,postgres,kubernetes&theme=dark)
+<br/>
+![](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark)
+
+![Flask](https://img.shields.io/badge/Flask-0A0E14?style=for-the-badge&logo=flask&logoColor=2EE6D6)
+![LangChain](https://img.shields.io/badge/LangChain-2EE6D6?style=for-the-badge&labelColor=0A0E14)
+![Pinecone](https://img.shields.io/badge/Pinecone-2EE6D6?style=for-the-badge&labelColor=0A0E14)
+![Gemini API](https://img.shields.io/badge/Gemini_API-2EE6D6?style=for-the-badge&labelColor=0A0E14)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-2EE6D6?style=for-the-badge&labelColor=0A0E14)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-2EE6D6?style=for-the-badge&labelColor=0A0E14)
+
+![NumPy](https://img.shields.io/badge/NumPy-0A0E14?style=for-the-badge&logo=numpy&logoColor=2EE6D6)
+![Pandas](https://img.shields.io/badge/Pandas-0A0E14?style=for-the-badge&logo=pandas&logoColor=2EE6D6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0E14?style=for-the-badge&logo=python&logoColor=2EE6D6)
+![Keras](https://img.shields.io/badge/Keras-0A0E14?style=for-the-badge&logo=keras&logoColor=2EE6D6)
+![SciPy](https://img.shields.io/badge/SciPy-0A0E14?style=for-the-badge&logo=scipy&logoColor=2EE6D6)
+
+</div>
+
+## `> expertise`
+
+| Domain | Focus |
+| :-- | :-- |
+| **Backend Engineering** | FastAPI · Flask · Docker · Azure AKS · REST/GraphQL API design |
+| **RAG / Agentic AI** | LangChain, Pinecone, multi-agent orchestration, LLM tool-calling |
+| **Applied ML / GNNs** | GraphSAGE fraud detection, large-scale semantic search |
+| **Data Science** | Ensemble modeling, SHAP analysis, geospatial rainfall prediction (IEEE GRSS) |
+| **Computer Vision** | Real-time face recognition pipelines, DINOv2 edge deployment |
+
+## `> ls /projects`
+
+<details open>
+<summary><b>▶ JDeesiee — 110M+ Resume Search Engine</b></summary>
+<br/>
+
+Scans 110M+ resumes and surfaces the top 10 best-matching candidates using Azure AI Search.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python · Azure AI Search |
+| **Scale** | 110M+ resumes indexed and searched |
+| **Impact** | Returns ranked top-10 candidate matches per query |
+| **Repo** | [utkarshhzz/JDeesiee](https://github.com/utkarshhzz/JDeesiee) |
+
+</details>
+
+<details>
+<summary><b>▶ Resume_Sanitizer — PII Resume Redaction</b></summary>
+<br/>
+
+Sanitizes resumes by detecting and redacting personally identifiable information before they're shared or indexed downstream.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python |
+| **Focus** | PII detection & redaction, resume-specific formats |
+| **Repo** | [utkarshhzz/Resume_Sanitizer](https://github.com/utkarshhzz/Resume_Sanitizer) |
+
+</details>
+
+<details>
+<summary><b>▶ Medical_Chatbot — RAG Medical Assistant</b></summary>
+<br/>
+
+RAG-powered medical chatbot giving instant, context-grounded responses to help with initial medical queries.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | LangChain · Pinecone · Google Gemini (2.5 Flash) · HuggingFace `all-MiniLM-L6-v2` · Flask |
+| **Architecture** | Vector retrieval grounds responses to reduce hallucination |
+| **Repo** | [utkarshhzz/Medical_Chatbot](https://github.com/utkarshhzz/Medical_Chatbot) |
+
+</details>
+
+<details>
+<summary><b>▶ CrowdWisdom.AI — Automated AI Debt Collection Agent</b></summary>
+<br/>
+
+Multi-agent system that orchestrates and automates debt collection: verifies compliant calling windows, pulls active records, and runs real-time conversational voice calls.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python · ElevenLabs Conversational AI · Airtable · Apify · OpenRouter (LLM orchestration) |
+| **Architecture** | Custom "Hermes" orchestrator loop + compliance/scheduling skill + feedback-driven call history |
+| **Repo** | [utkarshhzz/CrowdWisdom.AI](https://github.com/utkarshhzz/CrowdWisdom.AI) |
+
+</details>
+
+## `> cat achievements.log`
+
+| Project | Result |
+| :-- | :-- |
+| SmurfPakad | GraphSAGE-based blockchain fraud/smurfing detection — National hackathon |
+| Parakh.AI | DINOv2 edge vision deployment — National hackathon, **Top 3** |
+| PRAHARI | Satellite AQI/HCHO + river pollution GNN analytics — Samsung Solve for Tomorrow & ISRO BAH 2026 |
+
+## `> cat experience.log`
+
+**IEEE GRSS — Research Contributor** · *Ongoing*
+- Daily rainfall prediction across India using NASA POWER data and a two-stage hurdle stacking ensemble
+- R² ≈ 0.58 across 210 stations spanning 15 years of data
+- SHAP analysis, dry/moderate/heavy regime decomposition, leakage-free chronological evaluation
+- `Research` `Geospatial ML` `Ensemble Modeling`
+
+**AVSS Tech — Software Engineering Intern**
+- Built a real-time face recognition pipeline
+- `Computer Vision` `Real-time Systems`
+
+**Provaantech — Software Engineering Intern**
+- Built a resume search engine indexing 110M+ resumes → see [JDeesiee](https://github.com/utkarshhzz/JDeesiee)
+- `Backend Engineering` `Search Systems` `Azure AI Search`
+
+## `> github-stats`
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=utkarshhzz&show_icons=true&hide_border=true&title_color=2EE6D6&icon_color=7FFFD4&text_color=C9D1D9&bg_color=0A0E14&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshhzz&hide_border=true&background=0A0E14&stroke=2EE6D6&ring=7FFFD4&fire=2EE6D6&currStreakLabel=2EE6D6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshhzz&layout=compact&hide_border=true&title_color=2EE6D6&text_color=C9D1D9&bg_color=0A0E14&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshhzz&theme=blueGreen&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshhzz&bg_color=0A0E14&color=2EE6D6&line=2EE6D6&point=7FFFD4&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarshhzz&theme=github_dark" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/utkarshhzz/utkarshhzz/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Quantum computing & QAOA for combinatorial optimization
+  - 3D web development (Three.js) for personal portfolio
+
+building:
+  - Q-FlexGrid          # QAOA-based renewable microgrid dispatch — Quant-A-Thon '26 (IBM x RIT Chennai)
+  - JDeesiee / CrowdWisdom.AI / Medical_Chatbot   # ongoing personal projects
+
+open_to:
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - Data Science / Applied ML Roles
+```
+
+## `> connect`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E14?style=for-the-badge&logo=vercel&logoColor=2EE6D6)](https://utkarshkumar-theta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=2EE6D6)](https://github.com/utkarshhzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=2EE6D6)](https://www.linkedin.com/in/utkarsh-kumar-801703321/)
+[![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=2EE6D6)](mailto:unofficialutkarsh.06@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0E14?style=for-the-badge&logo=instagram&logoColor=2EE6D6)](https://www.instagram.com/utkarshz__/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0E14&height=100&section=footer" />
