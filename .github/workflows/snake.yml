@@ -13,6 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -21,11 +22,10 @@ jobs:
         with:
           github_user_name: utkarshhzz
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=2EE6D6&color_dots=1a2b1a,163832,1f5c52,2ee6d6,7fffd4
-            dist/github-contribution-grid-snake-dark.svg?color_snake=2EE6D6&color_dots=0a0e14,163832,1f5c52,2ee6d6,7fffd4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#2EE6D6&color_dots=#0A0E14,#163832,#1f5c52,#2ee6d6,#7fffd4
 
       - name: push svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
